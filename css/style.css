@@ -1,3 +1,8 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.title {
+    position: absolute;
+    font-weight: bold;
+}
